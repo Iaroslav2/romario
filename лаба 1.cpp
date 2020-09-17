@@ -7,7 +7,7 @@ int main() {
 	for (char i = 0, i ,< 10 , (i++));
 	scanf(A[i]);
 	if (A[i] > k)
-		k == A[i];
+		k == A[i]
 	printf(k);
 	return 0;
 }
