@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\stase\source\repos\Project109\Source.cpp(5,12): warning C4101: h: неиспользованная локальная переменная
+  Project109.vcxproj -> C:\Users\stase\source\repos\Project109\Debug\Project109.exe
